@@ -1,0 +1,8 @@
+{
+	"files": [
+	],
+    "compilerOptions": {
+        "esModuleInterop": true
+    },
+    "include": ["./typechain", "node_modules/@types/jest"]
+}
